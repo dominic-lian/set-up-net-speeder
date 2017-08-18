@@ -1,6 +1,6 @@
 ## set-up-net-speeder
 
-这篇文章介绍了相关信息[Shadowsocks(R)服务器部署](https://www.dominic-lian.space/?p=115)
+首次发表于[Shadowsocks(R)服务器部署](https://www.dominic-lian.space/?p=115)
 
 ### 安装NetSpeeder来加速代理速度
 安装net-speeder安装上之后能提升代理速度, 但是流量X2
